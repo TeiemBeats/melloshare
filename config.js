@@ -1,5 +1,5 @@
-// Public browser configuration. Never put a Supabase secret/service_role key here.
+// Supabase public browser configuration. Never add secret or service_role keys here.
 window.MELOSHARE_CONFIG = {
   supabaseUrl: "https://bbfxkhhbiltgsrzemvix.supabase.co",
-  supabaseAnonKey: ""
+  supabaseAnonKey: "sb_publishable_Zznw0c_VNCdlq5hCUm24oA_wR34ZVi0"
 };
